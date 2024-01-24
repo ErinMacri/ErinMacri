@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - https://ubc-library-rc.github.io/intro-git/content/03_sync.html
+- https://github.com/ubc-library-rc/intro-git
 
 <!---
 ErinMacri/ErinMacri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
